@@ -1,7 +1,6 @@
 # ⏱️ Neumorphic Digit-Bar Clock
 
-A **modern neumorphic clock** built with **HTML, CSS, and JavaScript**.  
-It features a smooth animated gradient background and a **floating blurred ball** that drifts naturally, giving a **human-like calming touch**.
+A **modern neumorphic clock** built with **HTML, CSS, and JavaScript**.
 
 ---
 

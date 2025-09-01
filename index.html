@@ -1,1 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Neumorphic Digit-Bar Clock</title>
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+  <!-- Background ball -->
+  <div class="floating-ball"></div>
 
+  <!-- Clock -->
+  <div class="clock-wrapper" aria-live="polite">
+    <div class="digit-bar" data-role="hours-tens"></div>
+    <div class="digit-bar" data-role="hours-ones"></div>
+    <div class="digit-bar" data-role="minutes-tens"></div>
+    <div class="digit-bar" data-role="minutes-ones"></div>
+    <div class="digit-bar" data-role="seconds-tens"></div>
+    <div class="digit-bar" data-role="seconds-ones"></div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

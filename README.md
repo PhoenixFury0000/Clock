@@ -34,10 +34,10 @@ It features a smooth animated gradient background and a **floating blurred ball*
 ---
 
 ## 🚀 Getting Started
-1. Fork the repo 
-2. make any changes if you want to
-3. Deploy on vercel
----
+
+1. **[Fork this repo](https://github.com/PhoenixFury0000/Clock/fork)** 🍴  
+2. Make any changes you want ✨  
+3. Deploy on **Vercel**
 
 ## 🛠️ Customization
 - Change `BAR_COUNT` in **app.js** to:

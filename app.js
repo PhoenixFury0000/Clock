@@ -9,23 +9,21 @@ const BAR_COUNT = 6;
 const bars = document.querySelectorAll(".digit-bar");
 
 bars.forEach(bar => {
-  // add digit labels
+  
   for (let i = 0; i < 10; i++) {
     const span = document.createElement("span");
     span.textContent = i;
     bar.appendChild(span);
   }
 
-  // add knob
+  
   const knob = document.createElement("div");
   knob.className = "knob";
   knob.textContent = "0";
   bar.appendChild(knob);
 });
 
-/**
- * Position knob at correct digit
- */
+
 function setDigit(bar, digit) {
   const knob = bar.querySelector(".knob");
   const y = digit * parseInt(getComputedStyle(document.documentElement).getPropertyValue("--digit-height"));
@@ -55,7 +53,7 @@ function updateClock(digits) {
   });
 }
 
-/* Drift-free timer */
+
 function tick() {
   updateClock(getTimeDigits());
 }

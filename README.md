@@ -31,14 +31,14 @@ It features a smooth animated gradient background and a **floating blurred ball*
 └── app.js       # Clock logic
 ```
 
----
-
 ## 🚀 Getting Started
 
-1. **[Fork this repo](https://github.com/PhoenixFury0000/Clock/fork)** 🍴  
-2. Make any changes you want ✨  
-3. Deploy on **Vercel**
+[![Fork Repo](https://img.shields.io/badge/Fork%20Repo-🍴-brightgreen?style=for-the-badge&logo=github)](https://github.com/PhoenixFury0000/Clock/fork)
+[![Deploy on Vercel](https://img.shields.io/badge/Deploy%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com)
 
+1. Click **Fork Repo** above to create your own copy 🍴  
+2. Make any changes you want ✨  
+3. Click **Deploy on Vercel** to host it 🚀
 ## 🛠️ Customization
 - Change `BAR_COUNT` in **app.js** to:
   - `6` → Show **HH:MM:SS**

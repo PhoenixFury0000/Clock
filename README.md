@@ -33,19 +33,12 @@ It features a smooth animated gradient background and a **floating blurred ball*
 
 ## 🚀 Getting Started
 
-[![Fork Repo](https://img.shields.io/badge/Fork%20Repo-🍴-brightgreen?style=for-the-badge&logo=github)](https://github.com/PhoenixFury0000/Clock/fork)
+[![Fork Repo](https://img.shields.io/badge/Fork%20Repo-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/PhoenixFury0000/Clock/fork)
 [![Deploy on Vercel](https://img.shields.io/badge/Deploy%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com)
 
-1. Click **Fork Repo** above to create your own copy 🍴  
+1. Click **Fork Repo** above to create your own copy  
 2. Make any changes you want ✨  
 3. Click **Deploy on Vercel** to host it 🚀
-## 🛠️ Customization
-- Change `BAR_COUNT` in **app.js** to:
-  - `6` → Show **HH:MM:SS**
-  - `5` → Show **HH:MM**
-- Edit gradient colors or animation timing in **style.css** to tweak the background and floating ball.
-
----
 
 ## 📜 License
 This project is **MIT Licensed** – free to use and modify.
